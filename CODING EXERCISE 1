@@ -1,0 +1,18 @@
+package myLife;
+
+public class myLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("6.00am:wake up");
+System.out.println("7.00am:breakfast");
+System.out.println("8.30am:class start");
+System.out.println("12.00pm:lunch break");
+System.out.println("1.00pm:class session 2");
+System.out.println("5.30pm:class ended");
+System.out.println("6.00pm:tea time");
+System.out.println("7.00pm:magrib pray");
+System.out.println("10.00pm:go to sleep");
+	
+	}
+}
